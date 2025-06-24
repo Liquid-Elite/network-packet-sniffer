@@ -1,0 +1,5 @@
+timestamp,type,description
+2025-06-24 23:39:41,DoS,DoS suspected: 119 packets/sec
+2025-06-24 23:40:17,DoS,DoS suspected: 116 packets/sec
+2025-06-24 23:40:28,DoS,DoS suspected: 128 packets/sec
+2025-06-24 23:40:40,DoS,DoS suspected: 155 packets/sec
